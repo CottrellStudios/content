@@ -1,17 +1,16 @@
 <Notifications>
+    <Notification>
+    <Software>Default</Software>
+    <Header>Notifications Menu</Header>
+    <Body>This app will be used to send you notifications about your software. Stay tuned for any notification</Body>
+    <Button></Button>
+    <Link></Link>
+  </Notification>  
   <Notification>
     <Software>Default</Software>
-    <Header>test12345</Header>
-    <Body>test1234567890</Body>
-    <Button>Press</Button>
-    <Link>google.com</Link>
-  </Notification>
-    <Notification>
-    <Software>griffin</Software>
-    <Header>Peter Griffin is here</Header>
-    <Body>test1234567890</Body>
-    <Button>Download</Button>
-    <Link>google.com</Link>
-  </Notification>
-  
+    <Header>Welcome!</Header>
+    <Body>Thank you for installing LaunchBox! We hope you are excited to experience all that this app has to offer.</Body>
+    <Button></Button>
+    <Link></Link>
+  </Notification>  
 </Notifications>
