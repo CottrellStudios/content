@@ -1,14 +1,51 @@
 <Notifications>
   <Notification>
-    <Header>Transfer Data from Wii to Wii U</Header>
-    <Body>You can now transfer your save data and content from your Wii to your Wii U system. Follow the on-screen instructions to begin the transfer process.</Body>
+    <Header>test</Header>
+    <Body>test</Body>
   </Notification>
-  <Notification>
-    <Header>Coming Soon!</Header>
-    <Body>Stay tuned for exciting new features and updates coming to your system soon.</Body>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
   </Notification>
-  <Notification>
-    <Header>Nintendo Network™</Header>
-    <Body>Connect with friends and access online features using your Nintendo Network ID.</Body>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
   </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+    <Notification>
+    <Header>test</Header>
+    <Body>test</Body>
+  </Notification>
+  
 </Notifications>
