@@ -6,5 +6,12 @@
     <Button>Press</Button>
     <Link>google.com</Link>
   </Notification>
+    <Notification>
+    <Software>griffin</Software>
+    <Header>Peter Griffin is here</Header>
+    <Body>test1234567890</Body>
+    <Button>Download</Button>
+    <Link>google.com</Link>
+  </Notification>
   
 </Notifications>
