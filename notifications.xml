@@ -1,6 +1,6 @@
 <Notifications>
   <Notification>
-    <Software>griffin</Software>
+    <Software>Default</Software>
     <Header>test12345</Header>
     <Body>test1234567890</Body>
     <Button>Press</Button>
