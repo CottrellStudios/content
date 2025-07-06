@@ -1,51 +1,10 @@
 <Notifications>
   <Notification>
+    <Software>Default</Software>
     <Header>test12345</Header>
     <Body>test1234567890</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
-  </Notification>
-    <Notification>
-    <Header>test</Header>
-    <Body>test</Body>
+    <Button>Press</Button>
+    <Link>google.com</Link>
   </Notification>
   
 </Notifications>
