@@ -1,5 +1,12 @@
 <Notifications>
     <Notification>
+        <Software>Default</Software>
+        <Header>Test</Header>
+        <Body>Testing testing</Body>
+        <Button>Press me</Button>
+        <Link>google.com</Link>
+    </Notification> 
+    <Notification>
     <Software>Default</Software>
     <Header>Notifications Menu</Header>
     <Body>This app will be used to send you notifications about your software. Stay tuned for any notification</Body>
